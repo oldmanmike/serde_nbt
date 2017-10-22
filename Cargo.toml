@@ -4,4 +4,5 @@ version = "0.1.0"
 authors = ["Michael Carpenter <mcarpenter.dev@gmail.com>"]
 
 [dependencies]
+itoa = "0.3"
 serde = "1"
